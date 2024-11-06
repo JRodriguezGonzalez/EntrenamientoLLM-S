@@ -1,2 +1,4 @@
-# EntrenamientoLLM-S
-Repositorio dedicado a la práctica y desarrollo de modelos de lenguaje grande (LLM) utilizando soluciones de código abierto.
+# RedacTico
+RedacTico es una herramienta impulsada por inteligencia artificial para realizar investigaciones académicas. Diseñada para apoyar a los estudiantes en todas las etapas de creación de sus proyectos, RedacTico combina búsquedas inteligentes en motores de búsqueda de internet con funciones interactivas que facilitan la organización y la redacción, todo en un solo espacio.
+
+El objetivo de RedacTico es centralizar todo el proceso investigativo en una única aplicación. Los estudiantes pueden hacer consultas, obtener información relevante y adaptar las respuestas directamente en su documento de investigación, sin necesidad de cambiar entre diferentes herramientas. De esta forma, RedacTico ofrece una experiencia de investigación fluida y simplificada, permitiendo a los usuarios concentrarse plenamente en el desarrollo de sus ideas y contenidos.
